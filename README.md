@@ -27,14 +27,14 @@ pip install nltk
 Installing required packages
 After NLTK has been downloaded, install required packages
 
-import nltk
-from nltk.stem import WordNetLemmatizer
-nltk.download('popular', quiet=True) # for downloading popular packages
-nltk.download('punkt') 
-nltk.download('wordnet') 
-How to run
-Jupyter Notebook Binder
-You can run the chatbot.ipynb which also includes step by step instructions.
+# import nltk
+# from nltk.stem import WordNetLemmatizer
+# nltk.download('popular', quiet=True) # for downloading popular packages
+# nltk.download('punkt') 
+# nltk.download('wordnet') 
+# How to run
+# spyder 4.1.2
+# You can run the chatbot.ipynb which also includes step by step instructions.
 
 Through Terminal
 python chatbot.py
