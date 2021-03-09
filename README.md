@@ -7,6 +7,4 @@ INSTALLATION PROCESSS
 **1ST INSTALL**
 
 pip install nltk
-make sure that you have set the engine property to default voice that should be present in your pc.
-mine is 2 yours may be 0 or 1 .
 
